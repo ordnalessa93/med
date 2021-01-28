@@ -1,0 +1,10 @@
+
+Assignment3/assignment_3/test/images/
+
+*.zraw
+
+*.mhd
+
+*.npz
+
+*.dcm
